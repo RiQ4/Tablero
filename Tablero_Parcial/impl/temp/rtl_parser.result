@@ -1,0 +1,172 @@
+[
+ {
+  "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/TopModule.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/TopModule.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/TopModule.v",
+    "InstLine" : 18,
+    "InstName" : "kp",
+    "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Keypad.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "keypad"
+   },
+   {
+    "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/TopModule.v",
+    "InstLine" : 19,
+    "InstName" : "db0",
+    "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "debounce",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+      "InstLine" : 19,
+      "InstName" : "d0",
+      "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/DFF.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "my_dff"
+     },
+     {
+      "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+      "InstLine" : 20,
+      "InstName" : "d1",
+      "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/DFF.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "my_dff"
+     },
+     {
+      "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+      "InstLine" : 21,
+      "InstName" : "d2",
+      "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/DFF.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "my_dff"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/TopModule.v",
+    "InstLine" : 20,
+    "InstName" : "db1",
+    "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "debounce",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+      "InstLine" : 19,
+      "InstName" : "d0",
+      "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/DFF.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "my_dff"
+     },
+     {
+      "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+      "InstLine" : 20,
+      "InstName" : "d1",
+      "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/DFF.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "my_dff"
+     },
+     {
+      "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+      "InstLine" : 21,
+      "InstName" : "d2",
+      "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/DFF.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "my_dff"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/TopModule.v",
+    "InstLine" : 21,
+    "InstName" : "db2",
+    "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "debounce",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+      "InstLine" : 19,
+      "InstName" : "d0",
+      "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/DFF.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "my_dff"
+     },
+     {
+      "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+      "InstLine" : 20,
+      "InstName" : "d1",
+      "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/DFF.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "my_dff"
+     },
+     {
+      "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+      "InstLine" : 21,
+      "InstName" : "d2",
+      "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/DFF.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "my_dff"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/TopModule.v",
+    "InstLine" : 22,
+    "InstName" : "db3",
+    "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "debounce",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+      "InstLine" : 19,
+      "InstName" : "d0",
+      "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/DFF.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "my_dff"
+     },
+     {
+      "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+      "InstLine" : 20,
+      "InstName" : "d1",
+      "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/DFF.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "my_dff"
+     },
+     {
+      "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+      "InstLine" : 21,
+      "InstName" : "d2",
+      "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/DFF.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "my_dff"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/TopModule.v",
+    "InstLine" : 24,
+    "InstName" : "ts1",
+    "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/turn_signal.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "ts"
+   }
+  ]
+ },
+ {
+  "InstFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/servo.v",
+  "InstLine" : 1,
+  "InstName" : "servo",
+  "ModuleFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/servo.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "servo"
+ }
+]

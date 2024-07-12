@@ -1,0 +1,26 @@
+Reading netlist file: "C:\Users\HP\Documents\ITLA\Tareas\C5\Sistemas Digitales\Proyectos\Tablero_Parcial\impl\gwsynthesis\Tablero_Parcial.vg"
+Parsing netlist file "C:\Users\HP\Documents\ITLA\Tareas\C5\Sistemas Digitales\Proyectos\Tablero_Parcial\impl\gwsynthesis\Tablero_Parcial.vg" completed
+Processing netlist completed
+Reading constraint file: "C:\Users\HP\Documents\ITLA\Tareas\C5\Sistemas Digitales\Proyectos\Tablero_Parcial\src\Tablero_Parcial.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Generate file "C:\Users\HP\Documents\ITLA\Tareas\C5\Sistemas Digitales\Proyectos\Tablero_Parcial\impl\pnr\Tablero_Parcial.pin.html" completed
+Generate file "C:\Users\HP\Documents\ITLA\Tareas\C5\Sistemas Digitales\Proyectos\Tablero_Parcial\impl\pnr\Tablero_Parcial.rpt.html" completed
+Generate file "C:\Users\HP\Documents\ITLA\Tareas\C5\Sistemas Digitales\Proyectos\Tablero_Parcial\impl\pnr\Tablero_Parcial.rpt.txt" completed
+Generate file "C:\Users\HP\Documents\ITLA\Tareas\C5\Sistemas Digitales\Proyectos\Tablero_Parcial\impl\pnr\Tablero_Parcial.tr.html" completed
+Thu Jul 11 22:10:53 2024
+

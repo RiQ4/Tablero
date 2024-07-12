@@ -1,0 +1,42 @@
+<?xml version="1" encoding="UTF-8"?>
+<GAO_CONFIG>
+    <Version>3.0</Version>
+    <Mode>Lite</Mode>
+    <AoCore_Lite index="0" sample_clock="clk" trig_type="0" capture_amount="1024" implemention="0" input_register_enabled="0" capture_init_data_enabled="0" module_name="top">
+        <SignalList>
+            <Bus capture_enable="true" name="d_data[3:0]">
+                <Signal>d_data[3]</Signal>
+                <Signal>d_data[2]</Signal>
+                <Signal>d_data[1]</Signal>
+                <Signal>d_data[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="data[3:0]">
+                <Signal>data[3]</Signal>
+                <Signal>data[2]</Signal>
+                <Signal>data[1]</Signal>
+                <Signal>data[0]</Signal>
+            </Bus>
+            <Signal capture_enable="true">on</Signal>
+            <Bus capture_enable="true" name="t_signal[1:0]">
+                <Signal>t_signal[1]</Signal>
+                <Signal>t_signal[0]</Signal>
+            </Bus>
+            <Signal capture_enable="true">headlights</Signal>
+            <Signal capture_enable="true">brake</Signal>
+            <Signal capture_enable="true">hazard</Signal>
+            <Bus capture_enable="true" name="trans[1:0]">
+                <Signal>trans[1]</Signal>
+                <Signal>trans[0]</Signal>
+            </Bus>
+            <Bus capture_enable="true" name="ts1/sequence[5:0]">
+                <Signal>ts1/sequence[5]</Signal>
+                <Signal>ts1/sequence[4]</Signal>
+                <Signal>ts1/sequence[3]</Signal>
+                <Signal>ts1/sequence[2]</Signal>
+                <Signal>ts1/sequence[1]</Signal>
+                <Signal>ts1/sequence[0]</Signal>
+            </Bus>
+        </SignalList>
+    </AoCore_Lite>
+    <GAO_ID>1000111101011011</GAO_ID>
+</GAO_CONFIG>

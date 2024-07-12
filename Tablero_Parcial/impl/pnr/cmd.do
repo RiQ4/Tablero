@@ -1,0 +1,16 @@
+-d C:\Users\HP\Documents\ITLA\Tareas\C5\Sistemas Digitales\Proyectos\Tablero_Parcial\impl\gwsynthesis\Tablero_Parcial.vg
+-p GW5A-25A-MBGA121N-1
+-pn GW5A-LV25MG121NES
+-cst C:\Users\HP\Documents\ITLA\Tareas\C5\Sistemas Digitales\Proyectos\Tablero_Parcial\src\Tablero_Parcial.cst
+-cfg C:\Users\HP\Documents\ITLA\Tareas\C5\Sistemas Digitales\Proyectos\Tablero_Parcial\impl\pnr\device.cfg
+-gao_crc 1000111101011011
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23
+-global_freq 100.000
+-enable_dsrm 0
+-rtl_gao

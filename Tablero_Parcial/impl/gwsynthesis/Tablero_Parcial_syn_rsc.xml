@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Register="4" Lut="17" T_Register="334(4)" T_Alu="110(0)" T_Lut="301(17)" T_Bsram="2(0)">
+    <SubModule name="kp" Register="33" Alu="19" Lut="48" T_Register="33(33)" T_Alu="19(19)" T_Lut="48(48)"/>
+    <SubModule name="db0" Register="19" Alu="17" Lut="9" T_Register="22(19)" T_Alu="17(17)" T_Lut="10(9)">
+        <SubModule name="d0" Register="1" Lut="1" T_Register="1(1)" T_Lut="1(1)"/>
+        <SubModule name="d1" Register="1" T_Register="1(1)"/>
+        <SubModule name="d2" Register="1" T_Register="1(1)"/>
+    </SubModule>
+    <SubModule name="db1" Register="19" Alu="17" Lut="9" T_Register="22(19)" T_Alu="17(17)" T_Lut="10(9)">
+        <SubModule name="d0" Register="1" Lut="1" T_Register="1(1)" T_Lut="1(1)"/>
+        <SubModule name="d1" Register="1" T_Register="1(1)"/>
+        <SubModule name="d2" Register="1" T_Register="1(1)"/>
+    </SubModule>
+    <SubModule name="db2" Register="19" Alu="17" Lut="9" T_Register="22(19)" T_Alu="17(17)" T_Lut="10(9)">
+        <SubModule name="d0" Register="1" Lut="1" T_Register="1(1)" T_Lut="1(1)"/>
+        <SubModule name="d1" Register="1" T_Register="1(1)"/>
+        <SubModule name="d2" Register="1" T_Register="1(1)"/>
+    </SubModule>
+    <SubModule name="db3" Register="19" Alu="17" Lut="9" T_Register="22(19)" T_Alu="17(17)" T_Lut="10(9)">
+        <SubModule name="d0" Register="1" Lut="1" T_Register="1(1)" T_Lut="1(1)"/>
+        <SubModule name="d1" Register="1" T_Register="1(1)"/>
+        <SubModule name="d2" Register="1" T_Register="1(1)"/>
+    </SubModule>
+    <SubModule name="ts1" Register="31" Alu="23" Lut="20" T_Register="31(31)" T_Alu="23(23)" T_Lut="20(20)"/>
+    <SubModule name="gw_gao_inst_0" Register="178" Lut="176" Bsram="2" T_Register="178(178)" T_Lut="176(176)" T_Bsram="2(2)"/>
+</Module>

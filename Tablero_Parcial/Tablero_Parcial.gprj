@@ -1,0 +1,18 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW5A-25A" pn="GW5A-LV25MG121NES">gw5a25a-000</Device>
+    <FileList>
+        <File path="src/DFF.v" type="file.verilog" enable="1"/>
+        <File path="src/Debounce.v" type="file.verilog" enable="1"/>
+        <File path="src/Keypad.v" type="file.verilog" enable="1"/>
+        <File path="src/TopModule.v" type="file.verilog" enable="1"/>
+        <File path="src/door.v" type="file.verilog" enable="0"/>
+        <File path="src/servo.v" type="file.verilog" enable="1"/>
+        <File path="src/turn_signal.v" type="file.verilog" enable="1"/>
+        <File path="src/Tablero_Parcial.cst" type="file.cst" enable="1"/>
+        <File path="src/Tablero_Parcial.rao" type="file.gao" enable="1"/>
+    </FileList>
+</Project>

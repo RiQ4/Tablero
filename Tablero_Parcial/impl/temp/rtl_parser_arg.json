@@ -1,0 +1,37 @@
+{
+ "Device" : "GW5A-25A",
+ "Files" : [
+  {
+   "Path" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/DFF.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Debounce.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/Keypad.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/TopModule.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/servo.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/src/turn_signal.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/HP/Documents/ITLA/Tareas/C5/Sistemas Digitales/Proyectos/Tablero_Parcial/impl/temp/rtl_parser.result",
+ "Top" : "top",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
